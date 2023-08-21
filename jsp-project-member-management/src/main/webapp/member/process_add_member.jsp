@@ -3,7 +3,7 @@
 --%>
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <%@ page import="java.util.*" %>
-<%@ page import="java.sql.Connection" %>
+<%@ page import="java.sql.*" %>
 <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
 <%@ taglib prefix="sql" uri="http://java.sun.com/jsp/jstl/sql" %>
 
@@ -46,7 +46,7 @@
   <sql:param value="<%=address%>" />
 </sql:update>
 
-<%--<c:if test="${resultSet>=1}">--%>
-<%--  <c:redirect url="resultMember.jsp?msg=1" />--%>
-<%--</c:if>--%>
+<c:if test="${resultSet>=1}">
+  <c:redirect url="result_member.jsp?msg=1" />
+</c:if>
 
