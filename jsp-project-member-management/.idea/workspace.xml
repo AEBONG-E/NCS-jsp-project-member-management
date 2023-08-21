@@ -11,9 +11,6 @@
   <component name="ChangeListManager">
     <list default="true" id="9d9f0f42-e072-47f4-9e29-5647b0cc4a4e" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/member/process_add_member.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/member/process_add_member.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/jsp-project-member-management-1.0-SNAPSHOT/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/jsp-project-member-management-1.0-SNAPSHOT/index.jsp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,12 +36,12 @@
               <option name="branches">
                 <list>
                   <RecentBranch>
-                    <option name="branchName" value="feature/#8-dev-1" />
-                    <option name="lastUsedInstant" value="1692582207" />
+                    <option name="branchName" value="feature/#10-dev-2" />
+                    <option name="lastUsedInstant" value="1692599503" />
                   </RecentBranch>
                   <RecentBranch>
                     <option name="branchName" value="main" />
-                    <option name="lastUsedInstant" value="1692581937" />
+                    <option name="lastUsedInstant" value="1692599064" />
                   </RecentBranch>
                 </list>
               </option>
@@ -85,7 +82,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "dart.analysis.tool.window.visible": "false",
-    "git-widget-placeholder": "feature/#8-dev-1",
+    "git-widget-placeholder": "feature/#10-dev-2",
     "last_opened_file_path": "C:/project/spring-workspace",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -203,7 +200,7 @@
       <option name="presentableId" value="Default" />
       <updated>1692532041544</updated>
       <workItem from="1692532043320" duration="217000" />
-      <workItem from="1692576098301" duration="17387000" />
+      <workItem from="1692576098301" duration="19312000" />
     </task>
     <servers />
   </component>
