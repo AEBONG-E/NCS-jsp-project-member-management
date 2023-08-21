@@ -10,7 +10,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9d9f0f42-e072-47f4-9e29-5647b0cc4a4e" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/main/welcome.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/main/welcome.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/member/add_member.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/member/add_member.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/member/login_member.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/member/login_member.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/member/update_member.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/member/update_member.jsp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,8 +39,8 @@
               <option name="branches">
                 <list>
                   <RecentBranch>
-                    <option name="branchName" value="feature/#10-dev-2" />
-                    <option name="lastUsedInstant" value="1692599503" />
+                    <option name="branchName" value="feature/#12-view" />
+                    <option name="lastUsedInstant" value="1692600897" />
                   </RecentBranch>
                   <RecentBranch>
                     <option name="branchName" value="main" />
@@ -82,7 +85,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "dart.analysis.tool.window.visible": "false",
-    "git-widget-placeholder": "feature/#10-dev-2",
+    "git-widget-placeholder": "feature/#12-view",
     "last_opened_file_path": "C:/project/spring-workspace",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -101,6 +104,11 @@
     ]
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\UserK\Documents\github\jsp-project-member-management\jsp-project-member-management\src\main\webapp\inc" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="Tomcat 9.0.71" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.71" ALTERNATIVE_JRE_ENABLED="false">
       <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080" />
@@ -200,7 +208,7 @@
       <option name="presentableId" value="Default" />
       <updated>1692532041544</updated>
       <workItem from="1692532043320" duration="217000" />
-      <workItem from="1692576098301" duration="19312000" />
+      <workItem from="1692576098301" duration="20414000" />
     </task>
     <servers />
   </component>

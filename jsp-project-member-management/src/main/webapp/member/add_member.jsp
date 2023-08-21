@@ -23,7 +23,7 @@
     </script>
 </head>
 <body>
-<%--<jsp:include page="../inc/menu.jsp" />--%>
+<jsp:include page="../inc/header.jsp" />
 <div class="jumbotron">
     <div class="container">
         <h1 class="display-3">회원 가입</h1>
@@ -196,6 +196,6 @@
 
     </script>
 </div>
-<%--<jsp:include page="../inc/footer.jsp"/>--%>
+<jsp:include page="../inc/footer.jsp"/>
 </body>
 </html>
