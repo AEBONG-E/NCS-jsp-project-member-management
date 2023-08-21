@@ -1,10 +1,6 @@
 # 프로젝트 : jsp-project-member-management
 JSP를 활용하여 간단한 회원관리 프로젝트 구현
-
-## 개발 계획
-
-* 개인 toy project (배포 X)
-* 소요기간
+개인 toy project (배포 X)
 
 ## 주요 기능
 
