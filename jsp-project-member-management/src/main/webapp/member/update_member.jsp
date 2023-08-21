@@ -9,7 +9,7 @@
     <title>회원 수정</title>
 </head>
 <body>
-<%--<jsp:include page="../inc/menu.jsp" />--%>
+<jsp:include page="../inc/header.jsp" />
 
 <%
     String sessionId = (String) session.getAttribute("sessionMemberId");
@@ -136,6 +136,6 @@
         </form>
     </div>
 </c:forEach>
-<%--<jsp:include page="../inc/footer.jsp" />--%>
+<jsp:include page="../inc/footer.jsp" />
 </body>
 </html>

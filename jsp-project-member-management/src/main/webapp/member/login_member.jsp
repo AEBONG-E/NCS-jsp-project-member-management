@@ -7,7 +7,7 @@
     <title>로그인 페이지</title>
 </head>
 <body>
-<%--<jsp:include page="../inc/menu.jsp" />--%>
+<jsp:include page="../inc/header.jsp" />
 <div class="jumbotron">
     <div class="container">
         <h1 class="display-3">로그인</h1>
@@ -34,6 +34,6 @@
         </form>
     </div>
 </div>
-<%--<jsp:include page="../inc/footer.jsp" />--%>
+<jsp:include page="../inc/footer.jsp" />
 </body>
 </html>
